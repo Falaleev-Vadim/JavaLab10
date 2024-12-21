@@ -1,3 +1,5 @@
+package org.example;
+
 class Triangle extends Shape implements Resizable {
     private double base;
     private double height;

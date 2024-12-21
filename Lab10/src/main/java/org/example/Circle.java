@@ -1,3 +1,5 @@
+package org.example;
+
 class Circle extends Shape implements Resizable {
     private double radius;
 

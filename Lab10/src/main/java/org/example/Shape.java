@@ -1,3 +1,5 @@
+package org.example;
+
 abstract class Shape implements Comparable<Shape>, Cloneable {
     protected double area;
 
